@@ -14,7 +14,7 @@ These files are my first foray in gui based applications for Python, They are qu
   The Main drawback with most caalculators is that they compute numbers left to right with no priority system i.e they dont use DMAS (Division.Multiplication,Addition,Subtraction) rules. So I made a calculator that does do this.
 
 ## Expert.py
-  This is the 3rd Calculator App I made, It does everything Multi.py does but when you press enter it evaluates the entire calculation and solves it with DMAS rules in mind, which means this is more advanced than most normal calculator applications
+  This is the 3rd Calculator App I made, It does everything Multi.py does but when you press enter it evaluates the entire calculation and solves it with DMAS rules in mind, which means this is more advanced than most normal calculator applications.While I was at it I also spruced up the GUI a tiny bit to make it more user friendly. 
   
 ## Dependencies 
     - Python 3+
